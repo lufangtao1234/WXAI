@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="WXAI"
+  id="myeclipse.1472716338487"
+  context-root="/WXAI"
+  j2ee-spec="5.0"
+  archive="WXAI.war">
+  <attributes>
+    <attribute name="webrootdir" value="WebRoot" />
+  </attributes>
+</project-module>
+
